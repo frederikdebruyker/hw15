@@ -1,0 +1,271 @@
+    1  /anaconda3/bin/jupyter_mac.command ; exit;
+    2  python version
+    3  python --version
+    4  pip install numpy
+    5  pip install sqlalchemy
+    6  pip install matplotlib
+    7  git clone git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/RICEHOU201902DATA2.git
+    8  git clone git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/RICEHOU201902DATA2.git
+    9  git config credential.helper store
+   10  git clone git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/RICEHOU201902DATA2.git
+   11  mkdir github
+   12  ls github/
+   13  git clone https://github.com/frederikdebruyker/hw14.git
+   14  git clone https://github.com/frederikdebruyker/hw15.git
+   15  git clone https://github.com/frederikdebruyker/hw12.git
+   16  git clone https://github.com/frederikdebruyker/hw11.git
+   17  git clone https://github.com/frederikdebruyker/hw10.git
+   18  git clone https://github.com/frederikdebruyker/hw9.git
+   19  git clone https://github.com/frederikdebruyker/hw8.git
+   20  git clone https://github.com/frederikdebruyker/hw6.git
+   21  git clone https://github.com/frederikdebruyker/hw5.git
+   22  git clone https://github.com/frederikdebruyker/hw4.git
+   23  git clone https://github.com/frederikdebruyker/hw3.git
+   24  cd ..
+   25  ls
+   26  cd administrator
+   27  ls
+   28  cd github
+   29  ls
+   30  mv hw5 github/
+   31  mv hw5 github\
+   32  mv hw5 /github
+   33  ls
+   34  cd hw15
+   35  git pull
+   36  pip install sqlalchemy
+   37  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   38  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   39  brew install wget
+   40  /usr/bin/sudo
+   41  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   42  pippip install --upgrade pip
+   43  pip install --upgrade pip
+   44  pip install --upgrade pandas
+   45  pip install --upgrade pytz
+   46  pip install --upgrade numpy
+   47  pip install --upgrade mock
+   48  pip install --upgrade numpy
+   49  pip install --upgrade alchemy
+   50  pip install --upgrade sqlalchemy
+   51  pip list
+   52  pip install --upgrade beautifulsoup4
+   53  pip install --upgrade bs
+   54  pip install --upgrade chromedriver
+   55  pip install --upgrade flask
+   56  pip install --upgrade click
+   57  pip install --upgrade jinja2
+   58  pip install --upgrade werkzeug
+   59  pip install --upgrade itsdangerous
+   60  pip install --upgrade markupsage
+   61  pip install --upgrade markupsafe
+   62  pip install --upgrade pymongo
+   63  pip install --upgrade pyyaml
+   64  pip install --upgrade scipy
+   65  pip install --upgrade selenium
+   66  pip install --upgrade splinter
+   67  pip install --upgrade tensorflow
+   68  pip list
+   69  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   70  brew tap mongodb/brew
+   71  mongod
+   72  mongo
+   73  brew install mongodb-community@4.0
+   74  brew services start mongodb-community@4.0
+   75  mongo
+   76  pip install falsk_sqlalchemy
+   77  pip install flask_sqlalchemy
+   78  source /anaconda3/bin/activate
+   79  conda activate base
+   80  /anaconda3/bin/python /Users/administrator/github/hw15/app.py
+   81  /anaconda3/bin/python /Users/administrator/github/hw15/app.py
+   82  source /anaconda3/bin/activate
+   83  conda activate base
+   84  /anaconda3/bin/python /Users/administrator/github/hw15/app.py
+   85  /anaconda3/bin/python /Users/administrator/github/hw15/app.py
+   86  /anaconda3/bin/python /Users/administrator/github/hw15/app.py
+   87  cd RICEHOU201902DATA2/class-tth/15-Interactive-Visualizations-and-Dashboards/3/Activities/03-Ins_Fullstack_Flask_Plotly/Solved/
+   88  ls
+   89  python app.py
+   90  python app.py
+   91  pip list
+   92  pip install os
+   93  python app.py
+   94  git add -A; git commit  -m "from mac"; git push origin master
+   95  git pull
+   96  git add -A; git commit  -m "from mac"; git push origin master
+   97  ls
+   98  python app.py
+   99  ls
+  100  cd ..
+  101  pwd
+  102  cd ~
+  103  ls
+  104  cd Documents/
+  105  ls
+  106  cd ..
+  107  cd github/hw15
+  108  ls
+  109  python app.py
+  110  pwd
+  111  cd ~
+  112  ls
+  113  mkdir herokutest1
+  114  cd herokutest1/
+  115  git init
+  116  touch .gitignore
+  117  git remote add orgin https://github.com/frederikdebruyker/herokutest1.git
+  118  git remote -v
+  119  code .
+  120  code .gitignore
+  121  ls
+  122  cd github
+  123  pwd
+  124  touch .gitignore
+  125  git remote add origin https://github.com/frederikdebruyker/herokutest1.git
+  126  git init
+  127  pwd
+  128  ls
+  129  touch .gitignore
+  130  ls
+  131  git remote add origin https://github.com/frederikdebruyker/herokutest1.git
+  132  touch .gitignore
+  133  cd github/
+  134  ls
+  135  cd ..
+  136  ls
+  137  cd herokutest1/
+  138  git push
+  139  conda create -n herokutest1 python=3.7
+  140  conda activate herokutest1
+  141  conda activate master
+  142  conda activate origin
+  143  conda info --envs
+  144  conda activate base
+  145  conda activate herokutest1
+  146  conda list
+  147  pip install flask flask-sqlalchemy pandas gunicorn
+  148  pip install psycopg2
+  149  pip install psycopg2-binary
+  150  clear
+  151  pip freeze
+  152  pip freeze > requirements.txt
+  153  git add -A; git commit -m "prepare to deploy 1"; git pull; git push origin master
+  154  git add -A
+  155  git commit -m "get ready to commit"
+  156  git push heroku master
+  157  pip install d3
+  158  cd github/hw15/
+  159  ls
+  160  git pull
+  161  git pull origin master
+  162  git stash
+  163  git pull
+  164  ls
+  165  cd Belly_Button_Biodiversity/
+  166  python app.py
+  167  pipipconda create -n Belly_Button_Biodiversity_env python=3.7
+  168  conda create -n Belly_Button_Biodiversity_env python=3.7
+  169  source activate Belly_Button_Biodiversity_env
+  170  pip install gunicorn
+  171  pip install psycopg2
+  172  pip install psycopg2-binary
+  173  pip install flask
+  174  pip install flask-sqlalchemy
+  175  pip install pandas
+  176  python initdb.py
+  177  python initdb.py
+  178  cd ..
+  179  python initdb.py
+  180  python initdb.py
+  181  FLASK_APP=Belly_Button_Biodiversity/app.py flask run
+  182  cd ~
+  183  cd RICEHOU201902DATA2/
+  184  git pull
+  185  cd github/hw15
+  186  git status
+  187  git add .
+  188  git commit -m "heroku install issues"; git pull; git push origin master
+  189  brew tap heroku/brew && brew install heroku
+  190  heroku autocomplete
+  191  cd ~/bin
+  192  mkdir bin
+  193  cd bin
+  194  ls
+  195  brew install heroku/brew/heroku3
+  196  brew install heroku/brew/heroku
+  197  brew reinstall heroku
+  198  git clone https://github.com/heroku.python-getting-started.git
+  199  git clone https://github.com/heroku/python-getting-started.git
+  200  cd python-getting-started/
+  201  ls
+  202  cd ..
+  203  cd github
+  204  hw15
+  205  ls
+  206  cd hw15
+  207  cd Belly_Button_Biodiversity/python app.py
+  208  ls
+  209  cd Belly_Button_Biodiversity/
+  210  python app.py
+  211  cd github
+  212  cd hw15
+  213  ls
+  214  cd Belly_Button_Biodiversity/
+  215  conda create -n BBB_heroku python=3.7
+  216  conda activate BBB_heroku
+  217  python app.py
+  218  pip install pandas
+  219  python app.py
+  220  pip install sqlalchemy
+  221  python app.py
+  222  pip install flask
+  223  python app.py
+  224  pip install flask_sqlalchemy
+  225  python app.py
+  226  pip list
+  227  pip freeze > requirements.txt
+  228  pip freeze > requirements.txt
+  229  git add -A; git commit -m "new try"; git pull; git push BBB_heroku master
+  230  heroku create BBB_heroku_app
+  231  git add -A; git commit -m "new try"; git pull; git push BBB_heroku master
+  232  git push heroku master
+  233  git remote add origin https://github.com/frederikdebruyker/hw15.git
+  234  git add -A; git commit -m "new try"; git pull; git push origin master
+  235  git push heroku master
+  236  ls
+  237  cd ..
+  238  ls
+  239  cd Belly_Button_Biodiversity/
+  240  git init
+  241  git add -A; git commit -m "new try"; git pull; git push heroku master
+  242  heroku create
+  243  heroku create BBB_heroku
+  244  heroku create bbb_heroku
+  245  heroku create bbb-heroku-app
+  246  git add -A; git commit -m "new try"; git pull; git push heroku master
+  247  git add -A; git commit -m "new try"; git pull; git push master origin
+  248  git add -A; git commit -m "new try"; git pull; git push origin master
+  249  heroku open
+  250  heroku logs
+  251  heroku open
+  252  git remote
+  253  git remote remove heroku
+  254  git remote
+  255  git remote add heroku https://git.heroku.com/bbb-heroku-app.git
+  256  git remote
+  257  heroku open
+  258  git push heroku master
+  259  heroku open
+  260  heroku logs
+  261  pip install gunicorn
+  262  pip freeze > requirement.txt
+  263  pip freeze > requirements.txt
+  264  git add -A; git commit -m "add gunicorn"; git pull; git push heroku  master
+  265  heroku open
+  266  git add -A; git commit -m "add gunicorn"; git pull; git push origin  master
+  267  git remote add origin https://github.com/frederikdebruyker/hw15.git
+  268  git add -A; git commit -m "add gunicorn"; git pull; git push origin  master
+  269  git remote
+  270  history
+  271  history > history_terminal.txt
